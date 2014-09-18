@@ -1,0 +1,36 @@
+{
+  "name": "idiom_search_react",
+  "repo": "https://github.com/ahsyuyu/idiom_search_react.git",
+  "description": "hello world",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ksanaforge/boot": "*",
+    "brighthas/bootstrap": "*",
+    "ksana/document": "*",
+    "ksanaforge/fileinstaller": "*",
+    "ksanaforge/checkbrowser": "*",
+    "ksanaforge/htmlfs": "*",
+    "idiom_search_react/main": "*",
+    "idiom_search_react/comp1": "*",
+    "idiom_search_react/results": "*",
+    "idiom_search_react/dataset": "*",
+    "idiom_search_react/api": "*"
+  },
+  "development": {},
+  "paths": [
+    "components",
+    "../components",
+    "../../components",
+    "../node_modules/",
+    "../../node_modules/"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ]
+}
